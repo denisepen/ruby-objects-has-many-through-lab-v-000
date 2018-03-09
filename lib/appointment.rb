@@ -7,5 +7,6 @@ class Appointment
     @appointment = appointment
     @doctor = doctor
     # doctor.add_appointment = self
+    @patient = patient
 end
 end
