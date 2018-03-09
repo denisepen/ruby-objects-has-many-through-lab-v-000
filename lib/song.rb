@@ -8,7 +8,8 @@ class Song
 
   def genre
     s = Song.new
-    s.genre = self
+    r = Genre.new
+    
   end
 
   def artist
