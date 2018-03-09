@@ -5,6 +5,7 @@ class Artist
     @name = name
     @songs = []
     @genre = genre
+    @artist = artist
   end
 
   def add_song(song)
