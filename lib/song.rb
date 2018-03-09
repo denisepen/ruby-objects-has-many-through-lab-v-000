@@ -10,7 +10,7 @@ class Song
   # def genre
   #   s = Song.new
   #   r = Genre.new
-  # 
+  #
   # end
 
   def artist
